@@ -9,6 +9,7 @@ import java.util.Scanner;
             int z = sc.nextInt();
             int avg = (x + y + z) / 3;
             System.out.print("The average of three numbers are:" + avg);
+            System.out.print("Thank you");
 
 
             }
